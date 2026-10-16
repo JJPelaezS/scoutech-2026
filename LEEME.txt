@@ -1,0 +1,5 @@
+SCOUTTECH 2026 — Opción 3 original actualizada
+
+Abre index.html para ver el sitio. Incluye los 11 videojuegos, información educativa, instrucciones, grados y participantes.
+Se conserva el diseño, filtros y reproductor con panel lateral de la opción 3 proporcionada.
+Para compartir en Internet, publica toda la carpeta SCOUTTECH-2026 sin cambiar su estructura.

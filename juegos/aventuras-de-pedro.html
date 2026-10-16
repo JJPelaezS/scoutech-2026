@@ -227,7 +227,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
     try {
       setProgress(0.1);
 
-      const scaffolding = new Scaffolding.Scaffolding();
+      var scaffolding = new Scaffolding.Scaffolding();
       scaffolding.width = 480;
       scaffolding.height = 360;
       scaffolding.resizeMode = "preserve-ratio";
@@ -236,7 +236,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
       scaffolding.setup();
       scaffolding.appendTo(appElement);
 
-      const vm = scaffolding.vm;
+      var vm = scaffolding.vm;
       window.scaffolding = scaffolding;
       window.vm = scaffolding.vm;
       window.Scratch = {
